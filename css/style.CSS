@@ -85,9 +85,9 @@
     border-radius: 7px;
     float: right;
 }
-#legenda-estranha{
+.legenda-estranha{
     position: absolute;
-    margin-top: 210px;
+    margin-top: 310px;
     font-size: 13px;
     color: #a6a6a6;
     float: left;
