@@ -151,4 +151,118 @@
     border-radius: 7px;
     float: right;
 }
-
+nav{
+    padding: 100px;
+    background-color: #000000;
+    margin-bottom: 10px;
+}
+#economia{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#00fc1d;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    margin-left: 110px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#Esporte{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#ff8800;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#entreterimento{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#ff0000;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#noticia{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#3b3333;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#alien{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#abf2ff;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.verde{
+    color: #21a330;
+}
+.vermelho{
+    color: #a01a16;
+}
+.laranja{
+    color: #c47603;
+}
+.azul{
+    color: #29c8e4;
+}
+.preto{
+    color: #000000;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+}
+#economia:hover{
+    background-color: #21a330;
+}
+.verde:hover{
+    color: #134b19;
+}
+#entreterimento:hover{
+    background-color: #a01a16;
+}
+.vermelho:hover{
+    color: #5c110e;
+}
+#Esporte:hover{
+    background-color: #c47603;
+}
+.laranja:hover{
+    color: #724400;
+}
+#alien:hover{
+    background-color: #29c8e4;
+}
+.azul:hover{
+    color: #18616e;
+}   
+#noticia:hover{
+    background-color: #272020;
+}
+.preto:hover{
+    color: #000000;
+}
+#botao1:hover{
+    background-color: #21a330;
+}
+#botao2:hover{
+    background-color: #c47603;
+}
+#botao3:hover{
+    background-color: #a01a16;
+}
+#botao4:hover{
+    background-color: black;
+}
+#botao5:hover{
+    background-color: #18616e;
+}
